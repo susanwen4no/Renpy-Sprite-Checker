@@ -13,8 +13,6 @@ That is why I am creating this Ren'py sprite checker that will allow you to refe
 ## Goals
 
 * GUI based dress-up game style display
-* BG checker
-* Display multiple sprites
 
 ## Completed
 
