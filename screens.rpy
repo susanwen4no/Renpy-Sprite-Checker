@@ -303,13 +303,7 @@ screen navigation():
 
             textbutton _("Start") action Start()
 
-        else:
-
-            textbutton _("History") action ShowMenu("history")
-
-            textbutton _("Save") action ShowMenu("save")
-
-        textbutton _("Load") action ShowMenu("load")
+            textbutton _("Text input") action Start("text_input")
 
         textbutton _("Preferences") action ShowMenu("preferences")
 
